@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Meviyy]]></title>
-  <link href="http://MMecirY.github.io/atom.xml" rel="self"/>
-  <link href="http://MMecirY.github.io/"/>
-  <updated>2013-08-20T07:41:48+08:00</updated>
-  <id>http://MMecirY.github.io/</id>
+  <link href="meviyy.com/atom.xml" rel="self"/>
+  <link href="meviyy.com/"/>
+  <updated>2013-08-20T08:03:44+08:00</updated>
+  <id>meviyy.com/</id>
   <author>
     <name><![CDATA[MMecirY]]></name>
     

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://MMecirY.github.io/sitemap.xml 
+Sitemap: meviyy.com/sitemap.xml 
